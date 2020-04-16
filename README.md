@@ -1,0 +1,1 @@
+# django-barebone-template
